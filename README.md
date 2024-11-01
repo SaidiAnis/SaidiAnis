@@ -9,10 +9,10 @@ Paris, France
 📜 Citation favorite : *"Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès."* — Albert Schweitzer  
 
 <p align="center">
-  <a href="mailto:votremail@gmail.com">
+  <a href="pro.anis.saidi@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/votreprofil">
+  <a href="https://www.linkedin.com/in/anis-saidi-pro/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://votreportfolio.com">
