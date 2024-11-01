@@ -5,8 +5,8 @@
 Paris, France
 
 🌱 Je me forme actuellement aux **technologies Cloud**, en particulier sur **AWS**  
-💬 N'hésitez pas à me poser des questions sur le **Data Engineering, le Cloud Computing, Python**... ou tout autre sujet [ici](#)  
-📜 Citation favorite : *"Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès."* — Albert Schweitzer  
+💬 N'hésitez pas à me poser des questions sur le **Data Engineering, le Cloud Computing, Python**... ou tout autre sujet [ici](https://www.linkedin.com/in/anis-saidi-pro/)  
+📜 Citation favorite : *"N'essayez pas de devenir un homme qui a du succès. Essayez de devenir un homme qui a de la valeur."* — Albert Einstein 
 
 <p align="center">
   <a href="pro.anis.saidi@gmail.com">
