@@ -1,14 +1,40 @@
-# Forrest Knight
+# Salut à tous ! 👋
 
-**Digital Craftsman (Developer/Filmmaker/Creator)**
+**Ingénieur Data passionné & Enthousiaste du Cloud**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel ["ForrestKnight"](youtube) to more than 400k subscribers.
+Paris, France
 
-<p align="left">
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE60328n17ZGcfg?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/fknight">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE60328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/ForrestKnight?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=%232cc3&label=Followers&logo=person-add&style=for-the-badge&labelColor=3b444b"/></a>
+🌱 Je me forme actuellement aux **technologies Cloud**, en particulier sur **AWS**  
+💬 N'hésitez pas à me poser des questions sur le **Data Engineering, le Cloud Computing, Python**... ou tout autre sujet [ici](#)  
+📜 Citation favorite : *"Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès."* — Albert Schweitzer  
+
+<p align="center">
+  <a href="mailto:votremail@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/votreprofil">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://votreportfolio.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🛠️ Langages - Frameworks - Outils 🛠️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+Merci d'avoir visité mon profil ! 🚀 N'hésitez pas à me contacter pour toute question ou opportunité de collaboration.
