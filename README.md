@@ -22,12 +22,12 @@ anis = {
     "focus"     : ["GenAI / RAG", "Cloud Infrastructure", "Data Lakehouses"],
     "certified" : ["AWS Data Engineer Associate", "AWS Cloud Practitioner"],
     "location"  : "Compiègne, France",
-    "status"    : "Open to opportunities — available immediately 🚀",
+    "status"    : "Open to opportunities — available immediately",
 }
 ```
 
 I build end-to-end data systems — from raw ingestion to production-grade GenAI features.  
-My last project: a **hybrid RAG engine** (vector + BM25) on Qdrant with multi-LLM integration, deployed on Kubernetes with Terraform.
+Last mission: **hybrid RAG engine** (vector + BM25) on Qdrant, multi-LLM integration (Mistral, Qwen) in multi-agent architecture, full infrastructure on Kubernetes + Terraform.
 
 ---
 
@@ -42,62 +42,30 @@ My last project: a **hybrid RAG engine** (vector + BM25) on Qdrant with multi-LL
 
 ---
 
-## 🚀 Featured Project
-
-### [🏪 databricks-retail-lakehouse](https://github.com/SaidiAnis/databricks-retail-lakehouse)
-
-> End-to-end lakehouse on Databricks — from raw files to a **Text-to-SQL chat interface**
-
-| Layer | Tech |
-|-------|------|
-| Governance | Unity Catalog · Terraform |
-| Orchestration | Databricks Asset Bundles |
-| Pipelines | PySpark · dbt · Delta Lake (Bronze → Silver → Gold) |
-| AI Layer | FastAPI · `ai_query()` · Text-to-SQL |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Core**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Core & Dev**
 
-**Data Engineering**  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,git,github,bash)](https://skillicons.dev)
 
-**GenAI & RAG**  
-![RAG](https://img.shields.io/badge/RAG-Hybrid%20Vector%20%2B%20BM25-e94560?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-purple?style=flat-square)
+**Cloud & Infra**
 
-**Cloud & Infra**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,helm)](https://skillicons.dev)
 
-</div>
+**Data & GenAI**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SaidiAnis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidiAnis&layout=compact&theme=tokyonight&hide_border=true"/>
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
